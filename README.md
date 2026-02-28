@@ -30,11 +30,7 @@ The project provides data-driven insights to support justice system transparency
 
 ![Executive Summary](images/executive_summary.png)
 
-![Demographic Analysis](images/demographic_analysis.png)
 
-![Trend Analysis](images/trend_analysis.png)
-
-![Facility Breakdown](images/facility_breakdown.png)
 
 ## 🧠 Key Insights
 - Identified trend fluctuations across reporting periods
